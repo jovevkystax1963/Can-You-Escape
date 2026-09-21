@@ -214,4 +214,4 @@ There are 15 uniquely themed rooms to escape from in the game.
 Dive into the escape adventure today! Download **Can You Escape** and challenge yourself with thrilling puzzles and captivating rooms now!
 
 ---
-**Last updated:** 2026-09-21 16:18:06 UTC
+**Last updated:** 2026-09-21 20:50:46 UTC
